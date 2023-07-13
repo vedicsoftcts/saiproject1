@@ -1,1 +1,2 @@
 this is sf2 file
+git log shows commit history

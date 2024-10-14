@@ -7,9 +7,9 @@ print(a)
 
 for x in a:
 	if x//2==0:
-		print("even no in a", x)
+		print(x," is even no")
 	else:
-		print("odd no in a", x)
+		print(x," is odd no")
 
 l=5
 b=6

@@ -6,10 +6,10 @@ for i in a:
 print(a)
 
 for x in a:
-	if x//2==0:
-		print(x," is even no")
+	if x%2==0:
+		print(x," is even number")
 	else:
-		print(x," is odd no")
+		print(x," is odd number")
 
 l=5
 b=6
